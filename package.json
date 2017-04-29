@@ -4,9 +4,11 @@
   "main": "main.js",
   "license": "MIT",
   "scripts": {
-    "test": "xo"
+    "test": "xo",
+    "build": "node scripts/build"
   },
   "devDependencies": {
+    "node-zip": "^1.1.1",
     "xo": "^0.18.1"
   },
   "xo": {
