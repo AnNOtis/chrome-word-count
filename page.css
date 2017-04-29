@@ -1,0 +1,8 @@
+.cewc-msg {
+  display: inline-block;
+  position: fixed;
+  bottom: 6px;
+  right: 12px;
+  color: #444;
+  font-style: italic;
+}
